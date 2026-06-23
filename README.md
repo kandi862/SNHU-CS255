@@ -1,5 +1,3 @@
-# SNHU-CS255
-Systems Analysis and Design coursework and portfolio projects for CS 255.
 # CS 255 – System Analysis and Design Portfolio
 
 ## DriverPass Project Reflection
